@@ -4,7 +4,7 @@ import java.lang.Math;
 public class AlternateNumbersDifference {
 	public static void main(String[] args) {
 		int n1=10;
-        int n2=1;;
+        int n2=1;
         Scanner sc=new Scanner(System.in);
         int a[]=new int[9];
         System.out.println("Enter the array size");
