@@ -3,8 +3,8 @@ import java.lang.Math;
 
 public class AlternateNumbersDifference {
 	public static void main(String[] args) {
-		int n1=0;
-        int n2=0;;
+		int n1=10;
+        int n2=1;
         Scanner sc=new Scanner(System.in);
         int a[]=new int[9];
         System.out.println("Enter the array size");
@@ -30,17 +30,18 @@ public class AlternateNumbersDifference {
              n1=a[i];
              n2=a[i+2];}
             }
-            
-            else 
+
+            else
             continue;
         }
         int min=0;
-        
+
             if(n1>n2)
             min=n2;
-            else 
+            else
             min=n1;
-    
+            
+
         for(int i=0;i<size;i++)
         {
             if(a[i]==min){
@@ -51,4 +52,8 @@ public class AlternateNumbersDifference {
 	}
 
 }
+
+//this alternate number difference program
+
 //difference between numbers
+
