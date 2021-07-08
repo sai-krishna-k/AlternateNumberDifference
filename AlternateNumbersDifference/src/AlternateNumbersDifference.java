@@ -51,6 +51,4 @@ public class AlternateNumbersDifference {
 	}
 
 }
-mhj
-dfjvh
-bvhj
+
