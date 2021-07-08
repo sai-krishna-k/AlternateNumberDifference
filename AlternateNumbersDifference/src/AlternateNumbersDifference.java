@@ -53,7 +53,11 @@ public class AlternateNumbersDifference {
 
 }
 
+ Editted in git36
+
+
 //this alternate number difference program
 
 //difference between numbers
+
 
