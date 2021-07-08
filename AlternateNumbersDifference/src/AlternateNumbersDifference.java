@@ -51,4 +51,4 @@ public class AlternateNumbersDifference {
 	}
 
 }
- again added here
+ again deleted things
