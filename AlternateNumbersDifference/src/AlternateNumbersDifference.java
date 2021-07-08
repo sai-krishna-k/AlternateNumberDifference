@@ -6,7 +6,7 @@ public class AlternateNumbersDifference {
 		int n1=30;
         int n2=1;
         Scanner sc=new Scanner(System.in);
-        int a[]=new int[9];
+        
         System.out.println("Enter the array size");
         int size=sc.nextInt();
         if(size<5||size>20)
@@ -14,6 +14,7 @@ public class AlternateNumbersDifference {
             System.out.println("Invalid array size");
             return;
         }
+		int a[]=new int[size];
         System.out.println("Enter the array elements");
         for(int i=0;i<size;i++)
         {
