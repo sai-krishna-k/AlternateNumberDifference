@@ -40,7 +40,7 @@ public class AlternateNumbersDifference {
             min=n2;
             else
             min=n1;
-            max=i2;
+            max=n1;
 
         for(int i=0;i<size;i++)
         {
