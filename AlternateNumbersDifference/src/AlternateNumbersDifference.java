@@ -9,7 +9,7 @@ public class AlternateNumbersDifference {
         int a[]=new int[9];
         System.out.println("Enter the array size");
         int size=sc.nextInt();
-        if(size<5||size>10)
+        if(size<5||size>20)
         {
             System.out.println("Invalid array size");
             return;
