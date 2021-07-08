@@ -51,4 +51,4 @@ public class AlternateNumbersDifference {
 	}
 
 }
- Editted in git
+ Editted in github
