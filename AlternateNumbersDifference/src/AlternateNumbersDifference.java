@@ -39,7 +39,8 @@ public class AlternateNumbersDifference {
             if(n1>n2)
             min=n2;
             else
-            min=n1;76666666
+            min=n1;
+            max=i2;
 
         for(int i=0;i<size;i++)
         {
