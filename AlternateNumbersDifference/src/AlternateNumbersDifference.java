@@ -3,7 +3,7 @@ import java.lang.Math;
 
 public class AlternateNumbersDifference {
 	public static void main(String[] args) {
-		int n1=0;
+		int n1=10;
         int n2=0;;
         Scanner sc=new Scanner(System.in);
         int a[]=new int[9];
@@ -40,7 +40,7 @@ public class AlternateNumbersDifference {
             min=n2;
             else
             min=n1;
-            max=n2;
+            
 
         for(int i=0;i<size;i++)
         {
