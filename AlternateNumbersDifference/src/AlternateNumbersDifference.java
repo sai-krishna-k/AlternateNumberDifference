@@ -30,17 +30,17 @@ public class AlternateNumbersDifference {
              n1=a[i];
              n2=a[i+2];}
             }
-            
-            else 
+
+            else
             continue;
         }
         int min=0;
-        
+
             if(n1>n2)
             min=n2;
-            else 
+            else
             min=n1;
-    
+
         for(int i=0;i<size;i++)
         {
             if(a[i]==min){
@@ -51,3 +51,4 @@ public class AlternateNumbersDifference {
 	}
 
 }
+//this alternate number difference program
