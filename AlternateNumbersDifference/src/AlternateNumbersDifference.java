@@ -51,4 +51,4 @@ public class AlternateNumbersDifference {
 	}
 
 }
- again deleted things
+ Editted in git
