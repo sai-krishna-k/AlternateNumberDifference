@@ -51,4 +51,4 @@ public class AlternateNumbersDifference {
 	}
 
 }
-
+//difference between numbers
